@@ -1,0 +1,24 @@
+{
+  "fraudEvaluationAssessmentInstanceReportRecord" : {
+    "fraudEvaluationAssessmentInstanceReportType" : "fraudEvaluationAssessmentInstanceReportType",
+    "fraudEvaluationAssessmentInstanceReport" : {},
+    "fraudEvaluationAssessmentInstanceReportData" : "fraudEvaluationAssessmentInstanceReportData"
+  },
+  "fraudEvaluationAssessmentRetrieveActionTaskRecord" : {},
+  "fraudEvaluationAssessmentRetrieveActionTaskReference" : "FEARATR761204",
+  "fraudEvaluationAssessmentInstanceRecord" : {
+    "fraudEvaluationTestProfile" : "fraudEvaluationTestProfile",
+    "fraudEvaluationEnsembleTechniqueType" : "fraudEvaluationEnsembleTechniqueType",
+    "productProductionSessionReference" : "774088",
+    "fraudEvaluationEnsembleTechniqueDefinition" : "fraudEvaluationEnsembleTechniqueDefinition",
+    "fraudEvaluationProductionAnomalyProductionTransactionReference" : "789843",
+    "fraudEvaluationTransactionConsolidationRecord" : {},
+    "fraudEvaluationProductionAnomalyRecord" : {}
+  },
+  "fraudEvaluationAssessmentInstanceAnalysis" : {
+    "fraudEvaluationAssessmentInstanceAnalysisData" : "fraudEvaluationAssessmentInstanceAnalysisData",
+    "fraudEvaluationAssessmentInstanceAnalysisReport" : {},
+    "fraudEvaluationAssessmentInstanceAnalysisReportType" : "fraudEvaluationAssessmentInstanceAnalysisReportType"
+  },
+  "fraudEvaluationAssessmentRetrieveActionResponse" : "fraudEvaluationAssessmentRetrieveActionResponse"
+}

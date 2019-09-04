@@ -1,0 +1,30 @@
+{
+  "ruleSetsandDecisionTreesInstanceAnalysis" : {
+    "ruleSetsandDecisionTreesInstanceAnalysisRecord" : {},
+    "ruleSetsandDecisionTreesInstanceAnalysisReportType" : "ruleSetsandDecisionTreesInstanceAnalysisReportType",
+    "ruleSetsandDecisionTreesInstanceAnalysisParameters" : "ruleSetsandDecisionTreesInstanceAnalysisParameters",
+    "ruleSetsandDecisionTreesInstanceAnalysisReport" : {}
+  },
+  "ruleSetsandDecisionTreesRetrieveActionTaskReference" : "RSADTRATR761427",
+  "fraudEvaluationAssessmentInstanceRecord" : {
+    "fraudEvaluationTestProfile" : "fraudEvaluationTestProfile",
+    "fraudEvaluationEnsembleTechniqueType" : "fraudEvaluationEnsembleTechniqueType",
+    "productProductionSessionReference" : "770179",
+    "fraudEvaluationEnsembleTechniqueDefinition" : "fraudEvaluationEnsembleTechniqueDefinition",
+    "fraudEvaluationProductionAnomalyProductionTransactionReference" : "722055",
+    "fraudEvaluationTransactionConsolidationRecord" : {},
+    "fraudEvaluationProductionAnomalyRecord" : {}
+  },
+  "ruleSetsandDecisionTreesRetrieveActionResponse" : "ruleSetsandDecisionTreesRetrieveActionResponse",
+  "ruleSetsandDecisionTreesInstanceReport" : {
+    "ruleSetsandDecisionTreesInstanceReportRecord" : {},
+    "ruleSetsandDecisionTreesInstanceReportParameters" : "ruleSetsandDecisionTreesInstanceReportParameters",
+    "ruleSetsandDecisionTreesInstanceReport" : {},
+    "ruleSetsandDecisionTreesInstanceReportType" : "ruleSetsandDecisionTreesInstanceReportType"
+  },
+  "bQRuleSetsAndDecisionTreesInstanceRecord" : {
+    "ruleSetsAndDecisionTreesTestWorkProduct" : "ruleSetsAndDecisionTreesTestWorkProduct",
+    "ruleSetsAndDecisionTreesTestResult" : "ruleSetsAndDecisionTreesTestResult"
+  },
+  "ruleSetsandDecisionTreesRetrieveActionTaskRecord" : {}
+}

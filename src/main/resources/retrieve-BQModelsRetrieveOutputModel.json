@@ -1,0 +1,30 @@
+{
+  "modelsRetrieveActionResponse" : "modelsRetrieveActionResponse",
+  "modelsRetrieveActionTaskRecord" : {},
+  "bQModelsInstanceRecord" : {
+    "modelsTestWorkProduct" : "modelsTestWorkProduct",
+    "modelsTestResult" : "modelsTestResult"
+  },
+  "fraudEvaluationAssessmentInstanceRecord" : {
+    "fraudEvaluationTestProfile" : "fraudEvaluationTestProfile",
+    "fraudEvaluationEnsembleTechniqueType" : "fraudEvaluationEnsembleTechniqueType",
+    "productProductionSessionReference" : "747786",
+    "fraudEvaluationEnsembleTechniqueDefinition" : "fraudEvaluationEnsembleTechniqueDefinition",
+    "fraudEvaluationProductionAnomalyProductionTransactionReference" : "796260",
+    "fraudEvaluationTransactionConsolidationRecord" : {},
+    "fraudEvaluationProductionAnomalyRecord" : {}
+  },
+  "modelsInstanceReport" : {
+    "modelsInstanceReportType" : "modelsInstanceReportType",
+    "modelsInstanceReport" : {},
+    "modelsInstanceReportParameters" : "modelsInstanceReportParameters",
+    "modelsInstanceReportRecord" : {}
+  },
+  "modelsInstanceAnalysis" : {
+    "modelsInstanceAnalysisParameters" : "modelsInstanceAnalysisParameters",
+    "modelsInstanceAnalysisReportType" : "modelsInstanceAnalysisReportType",
+    "modelsInstanceAnalysisRecord" : {},
+    "modelsInstanceAnalysisReport" : {}
+  },
+  "modelsRetrieveActionTaskReference" : "MRATR742556"
+}

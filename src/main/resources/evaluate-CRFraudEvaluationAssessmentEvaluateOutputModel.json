@@ -1,0 +1,14 @@
+{
+  "fraudEvaluationAssessmentInstanceRecord" : {
+    "fraudEvaluationTestProfile" : "fraudEvaluationTestProfile",
+    "fraudEvaluationEnsembleTechniqueType" : "fraudEvaluationEnsembleTechniqueType",
+    "productProductionSessionReference" : "778546",
+    "fraudEvaluationEnsembleTechniqueDefinition" : "fraudEvaluationEnsembleTechniqueDefinition",
+    "fraudEvaluationProductionAnomalyProductionTransactionReference" : "718258",
+    "fraudEvaluationProductionAnomalyRecord" : {}
+  },
+  "fraudEvaluationAssessmentEvaluateActionReference" : "FEAEAR736803",
+  "fraudEvaluationAssessmentEvaluateActionRecord" : {},
+  "fraudEvaluationAssessmentInstanceReference" : "FEAIR761498",
+  "fraudEvaluationAssessmentInstanceStatus" : "fraudEvaluationAssessmentInstanceStatus"
+}
